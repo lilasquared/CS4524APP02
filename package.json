@@ -1,0 +1,19 @@
+{
+  "name": "cs4524app02",
+  "version": "1.0.0",
+  "description": "Simple HTTP Endpoint that returns date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilasquared/CS4524APP02.git"
+  },
+  "author": "Aaron Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilasquared/CS4524APP02/issues"
+  },
+  "homepage": "https://github.com/lilasquared/CS4524APP02#readme"
+}

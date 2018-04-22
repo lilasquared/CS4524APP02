@@ -2,7 +2,7 @@ const http = require('http')
 const os = require('os')
 
 const server = http.createServer((req, resp) => {
-  resp.end(new Date())
+  resp.end((new Date()).toString())
 })
 
 server.on('clientError', (err, socket) => {
